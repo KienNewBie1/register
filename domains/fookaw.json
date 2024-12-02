@@ -1,0 +1,11 @@
+{
+    "description": "fookaw.is-a.dev",
+    "repo": "https://github.com/alexis-elaxis/alexis-elaxis.github.io",
+    "owner": {
+        "username": "fookaw",
+        "email": "trungkien98744@gmail.com"
+    },
+    "record": {
+        "CNAME": "fookaw.github.io"
+    }
+}
